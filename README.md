@@ -1,7 +1,13 @@
 - 👋 Hi, I’m @harshavardhan
-- 👀I’m interested in learning new technologies which broaden my professional expertise. I am more interested towards learning tools related to data sciene. 
-- 🌱 I’m currently learning Python, Machine learning, Mysql,tablue
+
+- 👀 I’m interested in learning new technologies which broaden my professional expertise. I am more interested towards learning tools related to data science. 
+
+- I have experience working with Tableau, My SQL, R programming, Microsoft Excel and python
+
+- 🌱 I’m currently doing Google Analytics certification
+
 - 💞️ I’m looking to collaborate on projects related to data analytics and data engineering
+
 - 📫 How to reach me: You can reach me through my mail-id harsha3b@gmail.com
 
 <!---
