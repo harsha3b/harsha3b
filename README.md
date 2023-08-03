@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm passionate about data science, data analysis, and leveraging various tools and programming languages to derive meaningful insights from complex datasets. Here, you'll find a collection of projects and code repositories showcasing my expertise in these areas.
 
-Data Science and Analysis:
+Data Science and Analysis Projects:
 In my projects, I explore the world of data science and analysis, utilizing a combination of statistical techniques, machine learning algorithms, and visualization tools. I believe in the power of data-driven decision-making and strive to uncover hidden patterns and trends that can drive business growth and innovation.
 
 Tableau:
